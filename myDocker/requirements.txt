@@ -1,0 +1,5 @@
+Flask
+pillow
+tensorflow
+keras==2.2.4
+cassandra-driver
